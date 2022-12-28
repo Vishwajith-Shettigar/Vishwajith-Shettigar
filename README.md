@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishwajith-Shettigar
 - 👀 I’m interested in Web,python and android Development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack and android
 - 💞️ I’m looking for Internship
 - 📫 How to reach me ?
 - Mail me : zekromvishwa56789@gmail.com
