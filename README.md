@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Specializing in MERN stack development and Android app development. I have gained experience through personal projects in these areas and have also explored competitive programming. Additionally, I have contributed to open-source projects, further<br>enhancing my skills and knowledge. I am passionate about technology and continuously strive to expand my expertise in various domains.</p>
+<p align="left">Specializing in MERN stack development and Android app development. I have gained experience through personal projects in these areas and have also explored competitive programming. Additionally, I have contributed to open-source projects, further enhancing my skills and knowledge. I am passionate about technology and continuously strive to expand my expertise in various domains.</p>
 
 ###
 
