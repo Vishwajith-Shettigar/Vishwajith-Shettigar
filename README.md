@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.openart.ai/stable_diffusion/4dc2c5e349b5e82d9672d9da11ad93e92e0718ad_2000x2000.webp"  />
+  <img height="300" src="https://drive.google.com/uc?export=view&id=18tifd-Bq3Qkz5yMIfggFnHNfzw_R2ebs" />
 </div>
 
 ###
