@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://drive.google.com/uc?export=view&id=18tifd-Bq3Qkz5yMIfggFnHNfzw_R2ebs" />
+  <img height="250" src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg" />
 </div>
 
 ###
