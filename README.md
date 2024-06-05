@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" />
+  <img height="250" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-github-icon.png" />
 </div>
 
 ###
