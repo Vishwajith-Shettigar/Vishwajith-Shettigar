@@ -11,6 +11,9 @@
   <a href="https://twitter.com/Shinzooooooo__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
   </a>
+    <a href="https://medium.com/@zekromvishwa56789" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
