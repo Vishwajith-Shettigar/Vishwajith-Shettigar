@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="250" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-github-icon.png" />
-</div>
 
 ###
 
